@@ -14,5 +14,8 @@ Implemented a 3D brain model in which we can perform the below actions:
 
 Instruction are inluded in the environment on the top right corner with the button instructions.
 
+![Summary](https://github.com/Anuhya1024/XR-Brain/blob/main/ProjectSummary.pdf)
+
+
 
 
